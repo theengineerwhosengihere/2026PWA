@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=StackSanHeadline:400,700&display=swap");
+
+body {
+    background: #ccff66;
+    font-family: "StackSanHeadline", sans-serif;
+    font-size: 1rem;
+}
+
+h1 {
+    color: #1f1e33; 
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 160px;
+}
+
+.video {
+    text-align: center;
+}
